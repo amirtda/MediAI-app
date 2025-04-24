@@ -5,3 +5,5 @@ pandas
 fuzzywuzzy
 python-Levenshtein
 Pillow
+matplotlib
+numpy
