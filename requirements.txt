@@ -7,3 +7,4 @@ python-Levenshtein
 Pillow
 matplotlib
 numpy
+seaborn
